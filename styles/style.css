@@ -1,0 +1,32 @@
+body {
+  background-color: bisque;
+  text-align: center;
+  font-size: 30px;
+}
+.page-container {
+  max-width: 700px;
+  margin: 0 auto;
+}
+.link-container {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 50px auto;
+}
+.links {
+  background-color: brown;
+  padding: 15px;
+  border-radius: 8px;
+}
+img {
+  margin: 30px auto;
+  width: 300px;
+  border: 3px solid brown;
+  border-radius: 15px;
+}
+a {
+  color: bisque;
+  text-decoration: none;
+}
+.email {
+  color: brown;
+}
